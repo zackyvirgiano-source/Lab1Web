@@ -6,9 +6,9 @@ Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **
 
 | Keterangan      | Data            |
 | --------------- | --------------- |
-| **Nama**        | Fachmi Amrullah |
+| **Nama**        | M. Zacky Virgiano |
 | **Kelas**       | I251B           |
-| **NIM**         | 312510246       |
+| **NIM**         | 312510349       |
 | **Mata Kuliah** | Pemrograman Web |
 
 ---
@@ -17,15 +17,8 @@ Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **
 
 Struktur file pada praktikum ini adalah sebagai berikut:
 
-```text
-Lab1Web/
-├── index.html
-├── halaman2.html
-├── images/
-│   └── profil.jpg
-└── README.md
-```
-<img width="719" height="1280" alt="gambar" src="https://github.com/user-attachments/assets/cab44b3f-5f08-4d4c-a886-7eba3f90d818" />
+
+<img width="598" height="400" alt="image" src="https://github.com/user-attachments/assets/e1341073-af06-4f67-8f7e-ded2ad6b6bda" />
 
 
 ---
@@ -35,9 +28,9 @@ Lab1Web/
 Membuat file `index.html` dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi `<!DOCTYPE html>`, tag `<html>`, `<head>`, `<title>`, dan `<body>`.
 
 ---
-<img width="1272" height="387" alt="Screenshot 2026-09-23 193430" src="https://github.com/user-attachments/assets/f6cdc05a-2130-4eed-a5d2-d9ff292a79b4" />
+<img width="975" height="254" alt="image" src="https://github.com/user-attachments/assets/0d22e4cb-9022-46af-b8b8-9adea01ebcd1" />
 
-<img width="1915" height="1140" alt="Screenshot 2026-09-23 194443" src="https://github.com/user-attachments/assets/98bcda84-72ed-4a9b-8a0d-bebfbcef956c" />
+<img width="975" height="29" alt="image" src="https://github.com/user-attachments/assets/9d71895b-14b3-4f01-ac79-0c9036683edf" />
 
 
 ## 3. Membuat Paragraf
@@ -45,9 +38,9 @@ Membuat file `index.html` dengan kerangka struktur dokumen HTML5 standar yang me
 Menambahkan beberapa teks paragraf menggunakan tag `<p>` ke dalam dokumen HTML untuk menampilkan konten teks, artikel, atau informasi pada halaman web.
 
 ---
-<img width="1046" height="192" alt="Screenshot 2026-09-23 185636" src="https://github.com/user-attachments/assets/5506de7b-8047-4ead-8719-c0499a719726" />
+<img width="975" height="313" alt="image" src="https://github.com/user-attachments/assets/2a659f6b-a746-4ea8-b1eb-8f520fa1a497" />
 
-<img width="1915" height="1135" alt="Screenshot 2026-09-23 194628" src="https://github.com/user-attachments/assets/2b34c3ed-05db-4938-9bee-50aca5bea4e8" />
+<img width="975" height="140" alt="image" src="https://github.com/user-attachments/assets/bd65266d-dc5b-4b79-bd3d-97b9083861b2" />
 
 
 ## 4. Menambahkan Judul (Heading)
@@ -55,9 +48,9 @@ Menambahkan beberapa teks paragraf menggunakan tag `<p>` ke dalam dokumen HTML u
 Menambahkan elemen heading dari level `<h1>` hingga `<h6>` untuk membuat judul utama dan subjudul sehingga konten halaman memiliki struktur dan hierarki yang jelas.
 
 ---
-<img width="550" height="97" alt="Screenshot 2026-09-23 185504" src="https://github.com/user-attachments/assets/7c7de215-106d-4f33-81e6-584d7b32791a" />
+<img width="975" height="144" alt="image" src="https://github.com/user-attachments/assets/44b7c7ab-5321-42a3-be64-e661786289ad" />
 
-<img width="1913" height="1137" alt="Screenshot 2026-09-23 194945" src="https://github.com/user-attachments/assets/a776ee55-565e-485d-9410-93ec431a54d9" />
+<img width="975" height="180" alt="image" src="https://github.com/user-attachments/assets/73d61476-2542-453b-b678-26c53b903645" />
 
 
 ## 5. Memformat Teks
@@ -71,10 +64,10 @@ Menerapkan berbagai tag pemformatan teks untuk memberikan gaya atau penekanan te
 * `<sup>` untuk superscript
 
 ---
-<img width="975" height="560" alt="Screenshot 2026-09-23 195142" src="https://github.com/user-attachments/assets/c47efb18-6eee-411f-b187-55f48d587cc9" />
+<img width="975" height="569" alt="image" src="https://github.com/user-attachments/assets/fe54690a-47ba-481c-9d09-4c08d139dc96" />
 
 
-<img width="1915" height="1120" alt="Screenshot 2026-09-23 195211" src="https://github.com/user-attachments/assets/babaeb86-4868-4483-b427-b978f85e3ef6" />
+<img width="975" height="204" alt="image" src="https://github.com/user-attachments/assets/745fd5cd-f4cd-4cea-b26b-bc8bf7535968" />
 
 
 ## 6. Menyisipkan Gambar
@@ -88,9 +81,9 @@ Menambahkan gambar ke dalam halaman web menggunakan tag `<img>` dengan atribut:
 Gambar yang digunakan disimpan di dalam folder `images/`.
 
 ---
-<img width="797" height="81" alt="Screenshot 2026-09-23 185824" src="https://github.com/user-attachments/assets/ee238b45-e8bc-43cf-85d5-4d29fbdbfcdc" />
+<img width="975" height="115" alt="image" src="https://github.com/user-attachments/assets/2832e48f-c033-4242-8663-d9172ff48053" />
 
-<img width="1917" height="1103" alt="Screenshot 2026-09-23 195251" src="https://github.com/user-attachments/assets/484a7f76-5ac6-46ee-bd1a-960821b464c9" />
+<img width="975" height="496" alt="image" src="https://github.com/user-attachments/assets/dd68d71f-1b3e-4adf-a689-0c6de100297d" />
 
 
 ## 7. Menambahkan Hyperlink
@@ -100,9 +93,10 @@ Membuat tautan atau hyperlink menggunakan tag `<a>` dengan atribut `href`.
 Hyperlink digunakan untuk menghubungkan halaman web internal, seperti `halaman2.html`, maupun mengarah ke website eksternal.
 
 ---
-<img width="698" height="161" alt="Screenshot 2026-09-23 190029" src="https://github.com/user-attachments/assets/8142869a-391b-4819-a029-936ddebc267b" />
+<img width="975" height="165" alt="image" src="https://github.com/user-attachments/assets/ed599bcc-3f50-448d-8975-6267f6b6eb2e" />
 
-<img width="1262" height="816" alt="Screenshot 2026-09-23 190058" src="https://github.com/user-attachments/assets/15caefdd-60b5-4df8-8117-e0f6122e7146" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/21a54505-5e0c-468f-a19c-8e586b5c93fb" />
+
 
 
 ## 8. Menambahkan List
@@ -113,9 +107,9 @@ Membuat daftar menggunakan dua jenis list HTML:
 * **Ordered List (`<ol>`)** — digunakan untuk daftar yang berurutan atau menggunakan nomor.
 
 ---
-<img width="802" height="315" alt="Screenshot 2026-09-23 190509" src="https://github.com/user-attachments/assets/9801cb9e-710a-49c5-8913-3fb998b64768" />
+<img width="975" height="325" alt="image" src="https://github.com/user-attachments/assets/aa341b41-8657-45f4-a6c5-7be1a9365721" />
 
-<img width="1892" height="1128" alt="Screenshot 2026-09-23 195357" src="https://github.com/user-attachments/assets/17b029bd-6d46-4897-83cd-31c407ac9906" />
+<img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/35a21ab4-f112-4d10-9818-88ea3bed2d50" />
 
 
 ## 9. Menambahkan Komentar
@@ -129,7 +123,7 @@ Menambahkan komentar atau catatan internal pada kode HTML menggunakan sintaks:
 Komentar tidak akan ditampilkan pada halaman web dan hanya digunakan sebagai dokumentasi atau catatan dalam kode.
 
 ---
-<img width="680" height="222" alt="Screenshot 2026-09-23 190718" src="https://github.com/user-attachments/assets/48a0ebc5-d6b7-4889-a021-6486ebb126e1" />
+<img width="1247" height="337" alt="image" src="https://github.com/user-attachments/assets/2bfa6c1c-4f30-4857-a9cd-d8f7a9db5159" />
 
 
 ## 10. Menggabungkan Semua Elemen
@@ -138,11 +132,14 @@ Menggabungkan seluruh elemen HTML yang telah dipelajari, mulai dari struktur das
 
 Seluruh elemen tersebut kemudian digunakan untuk membuat sebuah **halaman web profil mahasiswa** yang utuh.
 
-<img width="1452" height="947" alt="Screenshot 2026-09-23 191037" src="https://github.com/user-attachments/assets/9d5b77ee-1ef5-4afb-9912-e13726e4628f" />
+<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/05442a3c-aefa-4eed-b2d4-5c1e549a803f" />
 
-<img width="1157" height="632" alt="Screenshot 2026-09-23 191046" src="https://github.com/user-attachments/assets/d30a01fd-417c-42b3-812c-56461212510d" />
+<img width="975" height="480" alt="image" src="https://github.com/user-attachments/assets/45d5ad43-cc38-4e80-a0c4-52fa65d42e6c" />
 
-<img width="1892" height="1128" alt="Screenshot 2026-09-23 195357" src="https://github.com/user-attachments/assets/4c092bde-84a7-4072-a0fd-e4d5f96889a8" />
+<img width="975" height="195" alt="image" src="https://github.com/user-attachments/assets/39d52751-2e5d-4859-84e0-0249d2172706" />
+
+<img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/6c49f3b2-bf1a-45e9-b7a3-ef07c7c24d9e" />
+
 
 
 
